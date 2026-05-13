@@ -67,4 +67,4 @@ This project is Docker-ready. For platforms like Railway or Render:
 2. The app will automatically build using the included `Dockerfile`.
 
 ---
-*Developed as part of the TailorTalk Internship Assignment.*
+
